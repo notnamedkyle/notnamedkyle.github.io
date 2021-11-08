@@ -1,0 +1,50 @@
+body{
+    margin: 0;
+    font-weight: 900;
+    background-color: rgb(202, 240, 248);
+    font-size: 200%;
+    margin-top: 0%;
+}
+
+.container {
+   width:100%;
+   margin: 0 auto;
+}
+
+header{
+    background-color:rgb(138, 235, 255);
+    height: 3
+}
+
+nav {
+    float: none;
+}
+
+nav ul {
+    margin: 0%;
+    padding: 20px;
+    list-style: initial;
+}
+
+nav li {
+    display: inline;
+    margin-left: 0%;
+    padding: 250px;
+}
+
+nav a:hover {
+    color: cadetblue;
+}
+
+footer {
+    text-align: center;
+    background-color: rgb(158, 232, 255);
+    bottom: 0%;
+    width: 100%;
+    position: absolute;
+}
+
+
+.title {
+   text-align: center;
+}
